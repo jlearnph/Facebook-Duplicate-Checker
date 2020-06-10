@@ -35,4 +35,3 @@ FAQ:
 3. Can I download your code and run it myself? 
   - Yes! You could
 
-4. 
