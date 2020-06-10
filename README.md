@@ -4,10 +4,10 @@ Facebook Duplicate Checker
 This is a basic Facebook fake account checker.
 
 This software checks for accounts in the format
-<firstname>.<lastname>.<number>
+[firstname].[lastname].[number]
 
 I have built here a simple program that scans through Facebook profiles in a certain
-range (that you specify) that have the format <firstname>.<lastname>.<number> using an
+range (that you specify) that have the format [firstname].[lastname].[number] using an
 exterior browser. This then checks each profile whether they have a default profile picture
 or not. If they do then, it is highly likely a fake account. It is then flagged and
 outputted into a text file.
