@@ -22,3 +22,17 @@ ReadMe!
 Disclaimer: This program is intended for informational and personal use only.
 This program is released as-is. I do not take any responsibility for anything you
 do and happens to your account / device while using this program.
+
+FAQ:
+
+1. Why does this ask for my facebook email and password?
+  - Some fake accounts are private, hence you could not see them when you are not logged in. 
+
+2. What is the criteria for a facebook profile to be flagged as fake
+  - the format of the facebook account link is [firstname].[lastname].[number]
+  - there is no profile picture
+  
+3. Can I download your code and run it myself? 
+  - Yes! You could
+
+4. 
