@@ -25,7 +25,7 @@ do and happens to your account / device while using this program.
 
 Frequently Asked Questions:
 
-Q: Why does it ask for my facebook email and password? 
+Q: Why does it ask for my facebook email and password?
 A: Facebook does not allow checking of private accounts if you are not logged in.
 
 Q: How do you know whether its fake or not?
