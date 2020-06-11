@@ -25,7 +25,7 @@ do and happens to your account / device while using this program.
 
 FAQ:
 
-1. Why does this ask for my facebook email and password?
+1. Why does this require me to login to my facebook?
   - Some fake accounts are private, hence you could not see them when you are not logged in. 
 
 2. What is the criteria for a facebook profile to be flagged as fake
